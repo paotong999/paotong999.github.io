@@ -65,10 +65,10 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/aboutme'}    
-    - {title: 关于人生, description: about, url: '/aboutlife'}    
-    - {title: 关于爱情, description: about, url: '/aboutlove'}  
-    - {title: 测试网页, description: about, url: '/lovemodel3'}  
+    - {title: 关于我, description: aboutme, url: '/aboutme'}    
+    - {title: 关于人生, description: aboutlife, url: '/aboutlife'}    
+    - {title: 关于爱情, description: aboutlove, url: '/aboutlove'}  
+    - {title: 测试网页, description: lovemodel3, url: '/lovemodel3'}  
     
 
 # Pagination
