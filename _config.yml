@@ -68,6 +68,7 @@ nav:
     - {title: 关于我, description: about, url: '/aboutme'}    
     - {title: 关于人生, description: about, url: '/aboutlife'}    
     - {title: 关于爱情, description: about, url: '/aboutlove'}  
+    - {title: 测试网页, description: about, url: '/lovemodel3'}  
     
 
 # Pagination
