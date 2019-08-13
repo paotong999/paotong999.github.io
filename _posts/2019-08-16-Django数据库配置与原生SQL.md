@@ -2,11 +2,11 @@
 layout: post
 title: "04--Django数据库配置与原生SQL"
 date: 2019-08-16
-tags: Python Django  
+tags: Django  
 ---
 
-#####@Author  : Roger TX (425144880@qq.com)  
-#####@Link    : https://github.com/paotong999  
+##### @Author  : Roger TX (425144880@qq.com)  
+##### @Link    : https://github.com/paotong999  
 
 # 一、Django数据库模型
 ## 1.1 Django模型数据库配置
