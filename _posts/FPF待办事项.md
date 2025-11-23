@@ -2,7 +2,9 @@
 layout: post
 title: "15--FPF待办事项"
 date: 2025-11-05 
-tags: TODO  
+tags:
+  - Django
+  - bash
 kanban-plugin: board
 ---
 
@@ -34,4 +36,5 @@ kanban-plugin: board
 ```
 
 %%
+
 
