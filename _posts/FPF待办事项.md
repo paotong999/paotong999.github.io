@@ -1,0 +1,33 @@
+---
+
+kanban-plugin: board
+
+---
+
+## 未开始
+
+- [ ] 制作timeline @{2025-11-09}
+- [ ] 统计报表显示异常@{2025-11-10}
+- [ ] https://wiki.yingzi.com/pages/viewpage.action?pageId=159428123
+	FPF:FPF pro/App/全局数据网关错误提示优化 @{2025-11-27}
+
+
+## 进行中
+
+- [ ] 看板 @{2025-11-10}
+- [ ] AI提效 @{2025-11-13}#xml
+- [ ] 改延期解决：66405
+	完善配置：66492
+
+
+## 已完成
+
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":false,"full-list-lane-width":true,"tag-colors":[{"tagKey":"#xml","color":"rgba(242, 93, 245, 1)","backgroundColor":""}],"move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(33, 35, 39, 0)","color":"rgba(244, 174, 7, 1)","isToday":true},{"distance":3,"unit":"days","direction":"after","color":"rgba(250, 1, 1, 1)","isBefore":true},{"distance":5,"unit":"days","direction":"after","color":"rgba(9, 17, 164, 1)"}],"date-format":"YYYY-MM-DD","date-display-format":"YYYY-MM-DD","lane-width":380}
+```
+%%
