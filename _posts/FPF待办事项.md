@@ -1,7 +1,9 @@
 ---
-
+layout: post
+title: "15--Python 异常处理机制"
+date: 2019-08-05 
+tags: Python基础学习  
 kanban-plugin: board
-
 ---
 
 ## 未开始
@@ -30,4 +32,5 @@ kanban-plugin: board
 ```
 {"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":false,"full-list-lane-width":true,"tag-colors":[{"tagKey":"#xml","color":"rgba(242, 93, 245, 1)","backgroundColor":""}],"move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(33, 35, 39, 0)","color":"rgba(244, 174, 7, 1)","isToday":true},{"distance":3,"unit":"days","direction":"after","color":"rgba(250, 1, 1, 1)","isBefore":true},{"distance":5,"unit":"days","direction":"after","color":"rgba(9, 17, 164, 1)"}],"date-format":"YYYY-MM-DD","date-display-format":"YYYY-MM-DD","lane-width":380}
 ```
+
 %%
