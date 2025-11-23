@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Docker使用简要"
+date: 2025-11-23 
+tags: docker,CICD
+---
+
 ## 一、docker hub使用
 1、登录到docker hub：
 ```docker login {docker-hub}:8500/```
@@ -99,4 +106,5 @@ docker buildx build
 .
 # 5. 查看镜像 manifest（确认包含 amd64）
 docker buildx imagetools inspect {docker-hub}:8500/yingzi/yingzi-fpf-tools:latest
+
 ```
